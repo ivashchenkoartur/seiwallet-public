@@ -1,0 +1,1 @@
+# seiwallet-public
